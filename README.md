@@ -1,4 +1,4 @@
-# 23 React Projects with External Apis and Library
+# 23 React Projects with External Apis and Libraries
 
 ## Available Scripts
 
